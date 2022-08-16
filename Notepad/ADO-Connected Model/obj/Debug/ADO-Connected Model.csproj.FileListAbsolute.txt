@@ -1,0 +1,14 @@
+E:\ITI Matrials\ADO-Connected Model\ADO-Connected Model\bin\Debug\ADO-Connected Model.exe.config
+E:\ITI Matrials\ADO-Connected Model\ADO-Connected Model\bin\Debug\ADO-Connected Model.exe
+E:\ITI Matrials\ADO-Connected Model\ADO-Connected Model\bin\Debug\ADO-Connected Model.pdb
+E:\ITI Matrials\ADO-Connected Model\ADO-Connected Model\obj\Debug\ADO-Connected Model.csproj.AssemblyReference.cache
+E:\ITI Matrials\ADO-Connected Model\ADO-Connected Model\obj\Debug\ADO-Connected Model.csproj.SuggestedBindingRedirects.cache
+E:\ITI Matrials\ADO-Connected Model\ADO-Connected Model\obj\Debug\ADO_Connected_Model.Form1.resources
+E:\ITI Matrials\ADO-Connected Model\ADO-Connected Model\obj\Debug\ADO_Connected_Model.Properties.Resources.resources
+E:\ITI Matrials\ADO-Connected Model\ADO-Connected Model\obj\Debug\ADO-Connected Model.csproj.GenerateResource.cache
+E:\ITI Matrials\ADO-Connected Model\ADO-Connected Model\obj\Debug\ADO-Connected Model.csproj.CoreCompileInputs.cache
+E:\ITI Matrials\ADO-Connected Model\ADO-Connected Model\obj\Debug\ADO-Connected Model.exe
+E:\ITI Matrials\ADO-Connected Model\ADO-Connected Model\obj\Debug\ADO-Connected Model.pdb
+E:\ITI Matrials\ADO-Connected Model\ADO-Connected Model\obj\Debug\ADO_Connected_Model.Form2.resources
+E:\ITI Matrials\ADO-Connected Model\ADO-Connected Model\obj\Debug\ADO_Connected_Model.Form3.resources
+E:\ITI Matrials\ADO-Connected Model\ADO-Connected Model\obj\Debug\ADO_Connected_Model.Form4.resources
